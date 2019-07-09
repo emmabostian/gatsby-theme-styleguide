@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-theme-styleguide",
+  "author": "Emma Wedekind",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.13.9",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.0.21",
+    "@mdx-js/react": "^1.0.21",
+    "gatsby-plugin-mdx": "^1.0.7",
+    "gatsby-source-filesystem": "^2.1.2",
+    "mkdirp": "^0.5.1"
+  }
+}
